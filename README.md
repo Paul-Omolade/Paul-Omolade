@@ -158,13 +158,6 @@ High Availability and Recovery
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=Paul-Omolade&show_icons=true&hide_border=true"
-    alt="Paul's GitHub statistics"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Paul-Omolade&layout=compact&hide_border=true"
     alt="Paul's most used languages"
   />
