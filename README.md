@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Paul Olasunkanmi
+# Hi there! 👋 I'm Paul Omolade
 
 ## Full Stack Software Engineer | Founder of Smart Edu Inc.
 
