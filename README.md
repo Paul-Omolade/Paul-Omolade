@@ -76,7 +76,7 @@ I enjoy solving complex engineering problems, designing scalable systems and tra
 ### AI and Machine Learning
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/openai/412991" width="45" height="45" alt="OpenAI" title="OpenAI"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="45" height="45" alt="LangChain" title="LangChain"/>
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="45" height="45" alt="Hugging Face" title="Hugging Face"/>
 </p>
@@ -157,11 +157,17 @@ High Availability and Recovery
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paul-Omolade&show_icons=true&hide_border=true" alt="Paul's GitHub statistics"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Paul-Omolade&show_icons=true&hide_border=true"
+    alt="Paul's GitHub statistics"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Omolade&layout=compact&hide_border=true" alt="Paul's most used languages"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Paul-Omolade&layout=compact&hide_border=true"
+    alt="Paul's most used languages"
+  />
 </p>
 
 <p align="center">
